@@ -284,6 +284,10 @@ The `.gitignore` excludes environment secrets, OAuth JSON downloads and backups,
 
 Live operation sends email content to Groq, and email-derived retrieval queries to Google's embedding API. Index building sends the selected source text to Google. Draft text is stored in Gmail. This is a cloud-assisted application, not an offline mail processor.
 
+### Output Example
+<img width="1914" height="979" alt="image" src="https://github.com/user-attachments/assets/0fe9c23c-a881-4ca6-b4dd-d25029045d47" />
+
+
 ## Maintainer
 
 Ashok Dahal ([ashok-dahal-codes](https://github.com/ashok-dahal-codes)).
