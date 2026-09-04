@@ -1,0 +1,43 @@
+# Python environments, caches, and local build artifacts
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+
+# Secrets and OAuth downloads, including renamed backups
+.env
+.env.*
+!.env.example
+*credentials*.json
+*client_secret*.json
+*token*.json
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Knowledge databases and private knowledge files
+/db*/
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.db
+/data/*
+!/data/sample.txt
+!/data/agency.example.txt
+
+# Local results and editor/OS metadata
+*.log
+last_run.json
+api_test_result.json
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

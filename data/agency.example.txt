@@ -1,0 +1,11 @@
+BUSINESS KNOWLEDGE TEMPLATE - REPLACE BEFORE PRODUCTION USE
+
+Business name: Your business name
+Services: Describe the services you actually offer.
+Pricing: Add confirmed prices, currency, limits, and billing terms.
+Support: Describe confirmed support channels and response expectations.
+Policies: Include only approved refund, cancellation, and other policies.
+Unknown answers: Ask for clarification or refer to a human; do not invent facts.
+
+This file contains placeholders, not real offers. Copy it to agency.txt and
+replace the placeholders with verified information before production indexing.
